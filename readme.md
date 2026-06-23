@@ -96,6 +96,7 @@ For medical concerns, users are advised to consult a qualified healthcare profes
 Medical-Insurance-RAG/
 │
 ├── app.py
+├── uploads/
 ├── faiss_index/
 ├── .env
 ├── requirements.txt
