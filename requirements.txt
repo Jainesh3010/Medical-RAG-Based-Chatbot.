@@ -1,10 +1,9 @@
 streamlit
-python-dotenv
 langchain
 langchain-community
 langchain-huggingface
 langchain-google-genai
+sentence-transformers
 faiss-cpu
 pypdf
-sentence-transformers
-huggingface-hub
+python-dotenv
